@@ -6,9 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "SuperZekes",
   "license": "ISC",
-  "description": "",
+  "description": "Search all of Modrinth in Discord!",
   "dependencies": {
     "axios": "^1.7.7",
     "discord.js": "^14.16.3",
